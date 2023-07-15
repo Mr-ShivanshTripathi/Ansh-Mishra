@@ -1,0 +1,1621 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background: linear-gradient(rgb(220, 249, 252),beige);
+}
+.nav ul{
+    margin: 0px;
+    padding: 0px;
+    height: 50px;
+    line-height: 50px;
+    background: black;
+    border: 2px solid yellowgreen;
+}
+.nav ul li{
+    float: left;
+    list-style: none;
+    border-right: 2px solid forestgreen;
+}
+.nav ul li a{
+    text-decoration: none;
+    padding: 0px 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    color: yellow;
+}
+.banner{
+    height: 100px;
+    width: 99%;
+    border: 2px solid black;
+    margin-left: 0.4%;
+}
+.banner h1{
+    text-align: center;
+    color: blue;
+    font-size: 60px;
+    line-height: 100px;
+    letter-spacing: 5px;
+    animation: ansh 1.5s infinite;
+}
+@keyframes ansh{
+    0% {color: blue;}
+    10%{color: green ;}
+    20%{color: yellow;}
+    30%{color: deeppink;}
+    40%{color: red;}
+    50%{color: blueviolet;}
+    60%{color: tomato;}
+    70%{color: chartreuse;}
+    80%{color:orangered;}
+    90%{color: skyblue;}
+    100%{color: blue;}
+}
+.banner1{
+    height: 800px;
+    width: 99%;
+    border: 2px solid black;
+    margin-left: 0.4%;
+}
+.banner1 video{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.content{
+    height: 145vh;
+    width: 99%;
+    border: 2px solid black;
+    margin-left: 0.4%;
+}
+.content .l1{
+    height: 200px;
+    width: 23%;
+    border: 2px solid red;
+    margin-top: 2%;
+    margin-right: 5%;
+    float: right;
+}
+.content .l1 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.content .l2{
+    height: 200px;
+    width: 23%;
+    border: 2px solid red;
+    margin-top: 2%;
+    margin-right: 10%;
+    float: right;
+}
+.content .l2 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.content .l3{
+    height: 200px;
+    width: 23%;
+    border: 2px solid red;
+    margin-top: 2%;
+    margin-right: 10%;
+    float: right;
+}
+.content .l3 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.content .l4{
+    height: 200px;
+    width: 23%;
+    border: 2px solid red;
+    margin-top: 5%;
+    margin-right: 5%;
+    float: right;
+}
+.content .l4 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.content .l5{
+    height: 200px;
+    width: 23%;
+    border: 2px solid red;
+    margin-top: 5%;
+    margin-right: 10%;
+    float: right;
+    
+}
+.content .l5 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.content .l6{
+    height: 200px;
+    width: 23%;
+    border: 2px solid red;
+    margin-top: 5%;
+    margin-right: 10%;
+    float: right;
+}
+.content .l6 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.content .l7{
+    height: 200px;
+    width: 23%;
+    border: 2px solid red;
+    margin-top: 5%;
+    margin-right: 5%;
+    float: right;
+}
+.content .l7 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.content .l8{
+    height: 200px;
+    width: 23%;
+    border: 2px solid red;
+    margin-top: 5%;
+    margin-right: 10%;
+    float: right;
+}
+.content .l8 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.content .l9{
+    height: 200px;
+    width: 23%;
+    border: 2px solid red;
+    margin-top: 5%;
+    margin-right: 10%;
+    float: right;
+}
+.content .l9 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.content .l10{
+    height: 200px;
+    width: 23%;
+    border: 2px solid red;
+    margin-top: 5%;
+    margin-right: 5%;
+    float: right;
+}
+.content .l10 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.content .l11{
+    height: 200px;
+    width: 23%;
+    border: 2px solid red;
+    margin-top: 5%;
+    margin-right: 10%;
+    float: right;
+}
+.content .l11 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.content .l12{
+    height: 200px;
+    width: 23%;
+    border: 2px solid red;
+    margin-top: 5%;
+    margin-right: 10%;
+    float: right;
+    background-image: url(hqdefault\ \(11\).webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content .l12 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.footer{
+    height: 100px;
+    width: 99%;
+    border: 2px solid red;
+    margin-left: 0.4%;
+    margin-top: 0.2%;
+}
+.footer .copyright{
+    width: 100%;
+    height: 100px;
+    border-right: 2px solid red;
+}
+.end{
+    width: 99%;
+    margin-left: 0.4%;
+    height: 50px;
+    border: 3px solid green;
+    float: none;
+}
+.end h1{
+    text-align: center;
+    color: deeppink;
+}
+.footer .copyright h1{
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+}
+
+/* about us */
+
+.photo{
+    width: 99%;
+    margin-left: 0.4%;
+    height: 190vh;
+    /* border: 2px solid black; */
+}
+.photo .pic1{
+    width: 45%;
+    height: 700px;
+    margin-left: 2%;
+    margin-top: 0.5%;
+    border: 2px solid red;
+    float: left;
+}
+.photo .pic1 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+.photo .pic2{
+    float: left;
+    margin-top: 0.5%;
+    margin-right: 2%;
+    width: 50%;
+    height: 350px;
+    border: 2px solid red;
+    border-left: none;
+}
+.photo .pic2 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.photo .pic3{
+    float: left;
+    margin-right: 2%;
+    width: 50%;
+    height: 347px;
+    border: 2px solid red;
+    border-left: none;
+}
+.photo .pic3 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.photo .pic4{
+    float: left;
+    border: 2px solid red;
+    width: 45%;
+    margin-left: 2%;
+    height: 700px;
+}
+.photo .pic4 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+.photo .pic5{
+    float: left;
+    margin-right: 2%;
+    width: 50%;
+    height: 700px;
+    border: 2px solid red;
+    border-left: none;
+}
+.photo .pic5 img{
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+@media screen and (max-width:1440px){
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+    body{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        background: linear-gradient(rgb(220, 249, 252),beige);
+    }
+    .nav ul{
+        margin: 0px;
+        padding: 0px;
+        height: 50px;
+        line-height: 50px;
+        background: black;
+        border: 2px solid yellowgreen;
+    }
+    .nav ul li{
+        float: left;
+        list-style: none;
+        border-right: 2px solid forestgreen;
+    }
+    .nav ul li a{
+        text-decoration: none;
+        padding: 0px 30px;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        display: block;
+        color: yellow;
+    }
+    .banner{
+        height: 100px;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .banner h1{
+        text-align: center;
+        color: blue;
+        font-size: 60px;
+        line-height: 100px;
+        letter-spacing: 5px;
+        animation: ansh 1.5s infinite;
+    }
+    @keyframes ansh{
+        0% {color: blue;}
+        10%{color: green ;}
+        20%{color: yellow;}
+        30%{color: deeppink;}
+        40%{color: red;}
+        50%{color: blueviolet;}
+        60%{color: tomato;}
+        70%{color: chartreuse;}
+        80%{color:orangered;}
+        90%{color: skyblue;}
+        100%{color: blue;}
+    }
+    .banner1{
+        height: 800px;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .banner1 video{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content{
+        height: 145vh;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .content .l1{
+        height: 200px;
+        width: 23%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l1 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l2{
+        height: 200px;
+        width: 23%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 10%;
+        float: right;
+    }
+    .content .l2 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l3{
+        height: 200px;
+        width: 23%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 10%;
+        float: right;
+    }
+    .content .l3 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l4{
+        height: 200px;
+        width: 23%;
+        border: 2px solid red;
+        margin-top: 5%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l4 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l5{
+        height: 200px;
+        width: 23%;
+        border: 2px solid red;
+        margin-top: 5%;
+        margin-right: 10%;
+        float: right;
+        
+    }
+    .content .l5 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l6{
+        height: 200px;
+        width: 23%;
+        border: 2px solid red;
+        margin-top: 5%;
+        margin-right: 10%;
+        float: right;
+    }
+    .content .l6 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l7{
+        height: 200px;
+        width: 23%;
+        border: 2px solid red;
+        margin-top: 5%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l7 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l8{
+        height: 200px;
+        width: 23%;
+        border: 2px solid red;
+        margin-top: 5%;
+        margin-right: 10%;
+        float: right;
+    }
+    .content .l8 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l9{
+        height: 200px;
+        width: 23%;
+        border: 2px solid red;
+        margin-top: 5%;
+        margin-right: 10%;
+        float: right;
+    }
+    .content .l9 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l10{
+        height: 200px;
+        width: 23%;
+        border: 2px solid red;
+        margin-top: 5%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l10 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l11{
+        height: 200px;
+        width: 23%;
+        border: 2px solid red;
+        margin-top: 5%;
+        margin-right: 10%;
+        float: right;
+    }
+    .content .l11 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l12{
+        height: 200px;
+        width: 23%;
+        border: 2px solid red;
+        margin-top: 5%;
+        margin-right: 10%;
+        float: right;
+        background-image: url(hqdefault\ \(11\).webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .content .l12 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .footer{
+        height: 100px;
+        width: 99%;
+        border: 2px solid red;
+        margin-left: 0.4%;
+        margin-top: 0.2%;
+    }
+    .footer .copyright{
+        width: 100%;
+        height: 100px;
+        border-right: 2px solid red;
+    }
+    .end{
+        width: 99%;
+        margin-left: 0.4%;
+        height: 50px;
+        border: 3px solid green;
+        float: none;
+    }
+    .end h1{
+        text-align: center;
+        color: deeppink;
+    }
+    .footer .copyright h1{
+        text-align: center;
+        font-size: 20px;
+        color: blue;
+    }
+    
+    /* about us */
+    
+    .photo{
+        width: 99%;
+        margin-left: 0.4%;
+        height: 190vh;
+        /* border: 2px solid black; */
+    }
+    .photo .pic1{
+        width: 45%;
+        height: 700px;
+        margin-left: 2%;
+        margin-top: 0.5%;
+        border: 2px solid red;
+        float: left;
+    }
+    .photo .pic1 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    
+    .photo .pic2{
+        float: left;
+        margin-top: 0.5%;
+        margin-right: 2%;
+        width: 50%;
+        height: 350px;
+        border: 2px solid red;
+        border-left: none;
+    }
+    .photo .pic2 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .photo .pic3{
+        float: left;
+        margin-right: 2%;
+        width: 50%;
+        height: 347px;
+        border: 2px solid red;
+        border-left: none;
+    }
+    .photo .pic3 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .photo .pic4{
+        float: left;
+        border: 2px solid red;
+        width: 45%;
+        margin-left: 2%;
+        height: 700px;
+    }
+    .photo .pic4 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .photo .pic5{
+        float: left;
+        margin-right: 2%;
+        width: 50%;
+        height: 700px;
+        border: 2px solid red;
+        border-left: none;
+    }
+    .photo .pic5 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }    
+}
+
+@media screen and (max-width:1176px){
+    .banner{
+        height: 100px;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .banner h1{
+        text-align: center;
+        color: blue;
+        font-size: 40px;
+        line-height: 100px;
+        letter-spacing: 5px;
+        animation: ansh 1.5s infinite;
+    }
+    @keyframes ansh{
+        0% {color: blue;}
+        10%{color: green ;}
+        20%{color: yellow;}
+        30%{color: deeppink;}
+        40%{color: red;}
+        50%{color: blueviolet;}
+        60%{color: tomato;}
+        70%{color: chartreuse;}
+        80%{color:orangered;}
+        90%{color: skyblue;}
+        100%{color: blue;}
+    }
+    .footer{
+        height: 130px;
+        width: 99%;
+        border: 2px solid red;
+        margin-left: 0.4%;
+        margin-top: 0.2%;
+    }
+    .footer .copyright{
+        width: 100%;
+        height: 100px;
+        border-right: 2px solid red;
+    }
+    .end{
+        width: 99%;
+        margin-left: 0.4%;
+        height: 50px;
+        border: 3px solid green;
+        float: none;
+    }
+    .end h1{
+        text-align: center;
+        color: deeppink;
+    }
+    .footer .copyright h1{
+        text-align: center;
+        font-size: 20px;
+        color: blue;
+    }
+}
+
+@media screen and (max-width:878px){
+    .banner{
+        height: 100px;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .banner h1{
+        text-align: center;
+        color: blue;
+        font-size: 30px;
+        line-height: 100px;
+        letter-spacing: 5px;
+        animation: ansh 1.5s infinite;
+    }
+    @keyframes ansh{
+        0% {color: blue;}
+        10%{color: green ;}
+        20%{color: yellow;}
+        30%{color: deeppink;}
+        40%{color: red;}
+        50%{color: blueviolet;}
+        60%{color: tomato;}
+        70%{color: chartreuse;}
+        80%{color:orangered;}
+        90%{color: skyblue;}
+        100%{color: blue;}
+    }
+    .footer{
+        height: 190px;
+        width: 99%;
+        border: 2px solid red;
+        margin-left: 0.4%;
+        margin-top: 0.2%;
+    }
+    .footer .copyright{
+        width: 100%;
+        height: 100px;
+        border-right: 2px solid red;
+    }
+    .end{
+        width: 99%;
+        margin-left: 0.4%;
+        height: 50px;
+        border: 3px solid green;
+        float: none;
+    }
+    .end h1{
+        text-align: center;
+        color: deeppink;
+    }
+    .footer .copyright h1{
+        text-align: center;
+        font-size: 20px;
+        color: blue;
+    }
+    .content{
+        height: 160vh;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+}
+
+@media screen and (max-width: 711px){
+    .banner{
+        height: 100px;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .banner h1{
+        text-align: center;
+        color: blue;
+        font-size: 20px;
+        line-height: 100px;
+        letter-spacing: 3px;
+        animation: ansh 1.5s infinite;
+    }
+    @keyframes ansh{
+        0% {color: blue;}
+        10%{color: green ;}
+        20%{color: yellow;}
+        30%{color: deeppink;}
+        40%{color: red;}
+        50%{color: blueviolet;}
+        60%{color: tomato;}
+        70%{color: chartreuse;}
+        80%{color:orangered;}
+        90%{color: skyblue;}
+        100%{color: blue;}
+    }
+    .footer{
+        height: 190px;
+        width: 99%;
+        border: 2px solid red;
+        margin-left: 0.4%;
+        margin-top: 0.2%;
+    }
+    .footer .copyright{
+        width: 100%;
+        height: 100px;
+        border-right: 2px solid red;
+    }
+    .end{
+        width: 99%;
+        margin-left: 0.4%;
+        height: 50px;
+        border: 3px solid green;
+        float: none;
+    }
+    .end h1{
+        text-align: center;
+        color: deeppink;
+    }
+    .footer .copyright h1{
+        text-align: center;
+        font-size: 20px;
+        color: blue;
+    }
+    .content{
+        height: 160vh;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+        margin-top: 1%;
+    }
+    .banner1{
+        height: 400px;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .banner1 video{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .nav ul{
+        margin: 0px;
+        padding: 0px;
+        height: 50px;
+        line-height: 50px;
+        background: black;
+        border: 2px solid yellowgreen;
+    }
+    .nav ul li{
+        float: left;
+        list-style: none;
+        border-right: 2px solid forestgreen;
+    }
+    .nav ul li a{
+        text-decoration: none;
+        padding: 0px 25px;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        display: block;
+        color: yellow;
+    }
+}
+
+@media screen and (max-width:624px){
+    .banner{
+        height: 100px;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .banner h1{
+        text-align: center;
+        color: blue;
+        font-size: 20px;
+        line-height: 100px;
+        letter-spacing: 3px;
+        animation: ansh 1.5s infinite;
+    }
+    @keyframes ansh{
+        0% {color: blue;}
+        10%{color: green ;}
+        20%{color: yellow;}
+        30%{color: deeppink;}
+        40%{color: red;}
+        50%{color: blueviolet;}
+        60%{color: tomato;}
+        70%{color: chartreuse;}
+        80%{color:orangered;}
+        90%{color: skyblue;}
+        100%{color: blue;}
+    }
+    .footer{
+        height: 250px;
+        width: 99%;
+        border: 2px solid red;
+        margin-left: 0.4%;
+        margin-top: 0.2%;
+    }
+    .footer .copyright{
+        width: 100%;
+        height: 100px;
+        border-right: 2px solid red;
+    }
+    .end{
+        width: 99%;
+        margin-left: 0.4%;
+        height: 50px;
+        border: 3px solid green;
+        float: none;
+    }
+    .end h1{
+        text-align: center;
+        color: deeppink;
+    }
+    .footer .copyright h1{
+        text-align: center;
+        font-size: 20px;
+        color: blue;
+    }
+    .content{
+        height: 160vh;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+        margin-top: 1%;
+    }
+    .banner1{
+        height: 400px;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .banner1 video{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .nav ul{
+        margin: 0px;
+        padding: 0px;
+        height: 50px;
+        line-height: 50px;
+        background: black;
+        border: 2px solid yellowgreen;
+    }
+    .nav ul li{
+        float: left;
+        list-style: none;
+        border-right: 2px solid forestgreen;
+    }
+    .nav ul li a{
+        text-decoration: none;
+        padding: 0px 25px;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        display: block;
+        color: yellow;
+    }
+}
+
+@media screen and (max-width:484px){
+    .banner{
+        height: 100px;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .banner h1{
+        text-align: center;
+        color: blue;
+        font-size: 15px;
+        line-height: 100px;
+        letter-spacing: 2px;
+        animation: ansh 1.5s infinite;
+    }
+    @keyframes ansh{
+        0% {color: blue;}
+        10%{color: green ;}
+        20%{color: yellow;}
+        30%{color: deeppink;}
+        40%{color: red;}
+        50%{color: blueviolet;}
+        60%{color: tomato;}
+        70%{color: chartreuse;}
+        80%{color:orangered;}
+        90%{color: skyblue;}
+        100%{color: blue;}
+    }
+    .footer{
+        height: 300px;
+        width: 99%;
+        border: 2px solid red;
+        margin-left: 0.4%;
+        margin-top: 0.2%;
+    }
+    .footer .copyright{
+        width: 100%;
+        height: 100px;
+        border-right: 2px solid red;
+    }
+    .end{
+        width: 99%;
+        margin-left: 0.4%;
+        height: 50px;
+        border: 3px solid green;
+        float: none;
+    }
+    .end h1{
+        text-align: center;
+        color: deeppink;
+        font-size: 30px;
+    }
+    .footer .copyright h1{
+        text-align: center;
+        font-size: 20px;
+        color: blue;
+    }
+    .content{
+        height: 200vh;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+        margin-top: 1%;
+    }
+    .banner1{
+        height: 280px;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .banner1 video{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .nav ul{
+        margin: 0px;
+        padding: 0px;
+        height: 50px;
+        line-height: 50px;
+        background: black;
+        border: 2px solid yellowgreen;
+    }
+    .nav ul li{
+        float: left;
+        list-style: none;
+        border-right: 2px solid forestgreen;
+    }
+    .nav ul li a{
+        text-decoration: none;
+        padding: 0px 20px;
+        font-size: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        display: block;
+        color: yellow;
+    }
+
+    .photo{
+        width: 99%;
+        margin-left: 0.4%;
+        height: 190vh;
+        /* border: 2px solid black; */
+    }
+    .photo .pic1{
+        width: 96%;
+        height: 700px;
+        margin-left: 2%;
+        margin-top: 0.5%;
+        border: 2px solid red;
+        float: left;
+    }
+    .photo .pic1 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    
+    .photo .pic2{
+        float: left;
+        margin-top: 0.3%;
+        margin-right: 0.5%;
+        margin-left: 2.2%;
+        width: 96%;
+        height: 350px;
+        border: 2px solid red;
+    }
+    .photo .pic2 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .photo .pic3{
+        float: left;
+        margin-right: 0.5%;
+        margin-left: 2.2%;
+        width: 96%;
+        height: 347px;
+        border: 2px solid red;
+        border-left: none;
+    }
+    .photo .pic3 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .photo .pic4{
+        float: left;
+        border: 2px solid red;
+        width: 96%;
+        margin-left: 2.2%;
+        margin-right: 0.5%;
+        height: 700px;
+    }
+    .photo .pic4 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .photo .pic5{
+        float: left;
+        margin-right: 0.5%;
+        margin-left: 2.2%;
+        width: 96%;
+        height: 700px;
+        border: 2px solid red;
+        border-left: none;
+    }
+    .photo .pic5 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l1{
+        height: 200px;
+        width: 40%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l1 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l2{
+        height: 200px;
+        width: 40%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 10%;
+        float: right;
+    }
+    .content .l2 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l3{
+        height: 200px;
+        width: 40%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l3 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l4{
+        height: 200px;
+        width: 40%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 10%;
+        float: right;
+    }
+    .content .l4 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l5{
+        height: 200px;
+        width: 40%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+        
+    }
+    .content .l5 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l6{
+        height: 200px;
+        width: 40%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 10%;
+        float: right;
+    }
+    .content .l6 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l7{
+        height: 200px;
+        width: 40%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l7 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l8{
+        height: 200px;
+        width: 40%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 10%;
+        float: right;
+    }
+    .content .l8 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l9{
+        height: 200px;
+        width: 40%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l9 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l10{
+        height: 200px;
+        width: 40%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 10%;
+        float: right;
+    }
+    .content .l10 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l11{
+        height: 200px;
+        width: 40%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l11 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l12{
+        height: 200px;
+        width: 40%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 10%;
+        float: right;
+    }
+    .content .l12 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:396px){
+    .banner1{
+        height: 210px;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .banner1 video{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .footer{
+        height: 400px;
+        width: 99%;
+        border: 2px solid red;
+        margin-left: 0.4%;
+        margin-top: 0.2%;
+    }
+    .footer .copyright{
+        width: 100%;
+        height: 100px;
+        border-right: 2px solid red;
+    }
+    .footer .copyright h1{
+        font-size: 20px;
+    }
+    .end{
+        width: 99%;
+        margin-left: 0.4%;
+        height: 50px;
+        border: 3px solid green;
+        float: none;
+        line-height: 50px;
+    }
+    .end h1{
+        text-align: center;
+        color: deeppink;
+        font-size: 20px;
+    }
+    .footer .copyright h1{
+        text-align: center;
+        font-size: 20px;
+        color: blue;
+    }
+}
+@media screen and (max-width:344px){
+    .content .l1{
+        height: 200px;
+        width: 90%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l1 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l2{
+        height: 200px;
+        width: 90%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l2 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l3{
+        height: 200px;
+        width: 90%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l3 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l4{
+        height: 200px;
+        width: 90%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l4 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l5{
+        height: 200px;
+        width: 90%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+        
+    }
+    .content .l5 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l6{
+        height: 200px;
+        width: 90%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l6 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l7{
+        height: 200px;
+        width: 90%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l7 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l8{
+        height: 200px;
+        width: 90%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l8 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l9{
+        height: 200px;
+        width: 90%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l9 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l10{
+        height: 200px;
+        width: 90%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l10 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l11{
+        height: 200px;
+        width: 90%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l11 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content .l12{
+        height: 200px;
+        width: 90%;
+        border: 2px solid red;
+        margin-top: 2%;
+        margin-right: 5%;
+        float: right;
+    }
+    .content .l12 img{
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+    .content{
+        height: 390vh;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+        margin-top: 1%;
+    }
+    .banner{
+        height: 100px;
+        width: 99%;
+        border: 2px solid black;
+        margin-left: 0.4%;
+    }
+    .banner h1{
+        text-align: center;
+        color: blue;
+        font-size: 12px;
+        line-height: 100px;
+        letter-spacing: 1px;
+        animation: ansh 1.5s infinite;
+    }
+    .footer{
+        height: 300px;
+        width: 99%;
+        border: 2px solid red;
+        margin-left: 0.4%;
+        margin-top: 0.2%;
+    }
+    .footer .copyright{
+        width: 100%;
+        height: 100px;
+        border-right: 2px solid red;
+    }
+    .end{
+        width: 99%;
+        margin-left: 0.4%;
+        height: 50px;
+        border: 3px solid green;
+        float: none;
+        line-height: 50px;
+    }
+    .end h1{
+        text-align: center;
+        color: deeppink;
+        font-size: 20px;
+    }
+    .footer .copyright h1{
+        text-align: center;
+        font-size: 13px;
+        color: blue;
+    }
+    .banner1{
+        height: 150px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:320px){
+    .nav ul{
+        margin: 0px;
+        padding: 0px;
+        height: 50px;
+        line-height: 50px;
+        background: black;
+        border: 2px solid yellowgreen;
+    }
+    .nav ul li{
+        float: left;
+        list-style: none;
+        border-right: 2px solid forestgreen;
+    }
+    .nav ul li a{
+        text-decoration: none;
+        padding: 0px 9px;
+        font-size: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        display: block;
+        color: yellow;
+    }
+}
